@@ -42,8 +42,8 @@ assets/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flutter-brasalfa.git
-cd flutter-brasalfa
+git clone https://github.com/keraiyassine/Bra-Salfa.git
+cd Bra-Salfa
 ```
 
 ### 2. Install dependencies
