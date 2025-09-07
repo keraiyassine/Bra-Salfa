@@ -62,7 +62,7 @@ flutter run
 
 ```bash
 https://www.mediafire.com/file/8jafl3k19d860kc/app-release.apk/file?fbclid=IwY2xjawMqVaNleHRuA2FlbQIxMABicmlkETFXbXhnZ2JRQ2paUEFoVXdrAR6hHWo6DS6zep1uIfMP8gVR7_AJxGWGlqazYqb1TEqNSNMd0JVBXzBW7ldOIQ_aem_QjViwVIoEbgOp86INEE9wA
----
+```
 
 ## 📸 Screenshots  
 
